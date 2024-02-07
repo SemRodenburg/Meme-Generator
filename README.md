@@ -4,4 +4,4 @@ This application is a meme generator that calls out to an API to get the images,
 
 The application is mainly build with React and it consists of some HTML en some CSS styling. 
 
-![](images\Readme-image.png)
+![Preview](https://github.com/SemRodenburg/Meme-Generator/blob/main/images/Readme-image.png)
