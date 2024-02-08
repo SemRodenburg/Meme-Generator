@@ -64,5 +64,19 @@ so if you want to check that out for yourself you can click the link.
 
 * Anddd Voilà, you have installed and run a Vite + React project on your local desktop.
 
+---
+
+## How to use this project
+
+This project is fairly simple to use. The whole point of this **_Meme Generator_** is that you can simply choose a random meme image by clicking the **_new meme image button_** untill you found the right one. Once you have found the image you want, you can write down your own meme text inside of the inputs that are displayed on the webpage, and you've created your own **_Meme_**.
+<br>
+
+### Like for instance: 
+
+<img src="https://github.com/SemRodenburg/Meme-Generator/blob/main/images/new-readme-image.png" width="450px" height="500px">
+
+
+
+
 
 
